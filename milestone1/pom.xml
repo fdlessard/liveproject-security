@@ -11,7 +11,7 @@
     <groupId>com.laurentiuspilca</groupId>
     <artifactId>liveproject-security-milestone1</artifactId>
     <version>1.0.0</version>
-    <name>liveproject_spring_security_milestone4</name>
+    <name>lliveproject-security-milestone1</name>
     <description>Live Project - Spring Security - Project 2 - Milestone 1 - Implementing the business logic server</description>
 
     <properties>
