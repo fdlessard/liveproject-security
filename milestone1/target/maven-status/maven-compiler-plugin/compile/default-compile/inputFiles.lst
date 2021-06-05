@@ -1,0 +1,16 @@
+/Users/fdlessard/Documents/SoftwareProjects/liveproject-security/milestone1/src/main/java/com/laurentiuspilca/liveproject/services/HealthMetricService.java
+/Users/fdlessard/Documents/SoftwareProjects/liveproject-security/milestone1/src/main/java/com/laurentiuspilca/liveproject/Milestone1Application.java
+/Users/fdlessard/Documents/SoftwareProjects/liveproject-security/milestone1/src/main/java/com/laurentiuspilca/liveproject/entities/enums/HealthMetricType.java
+/Users/fdlessard/Documents/SoftwareProjects/liveproject-security/milestone1/src/main/java/com/laurentiuspilca/liveproject/config/SecurityConfiguration.java
+/Users/fdlessard/Documents/SoftwareProjects/liveproject-security/milestone1/src/main/java/com/laurentiuspilca/liveproject/exceptions/advices/GlobalExceptionAdvice.java
+/Users/fdlessard/Documents/SoftwareProjects/liveproject-security/milestone1/src/main/java/com/laurentiuspilca/liveproject/services/HealthProfileService.java
+/Users/fdlessard/Documents/SoftwareProjects/liveproject-security/milestone1/src/main/java/com/laurentiuspilca/liveproject/controllers/HealthAdviceController.java
+/Users/fdlessard/Documents/SoftwareProjects/liveproject-security/milestone1/src/main/java/com/laurentiuspilca/liveproject/exceptions/HealthProfileAlreadyExistsException.java
+/Users/fdlessard/Documents/SoftwareProjects/liveproject-security/milestone1/src/main/java/com/laurentiuspilca/liveproject/controllers/dto/HealthAdvice.java
+/Users/fdlessard/Documents/SoftwareProjects/liveproject-security/milestone1/src/main/java/com/laurentiuspilca/liveproject/exceptions/NonExistentHealthProfileException.java
+/Users/fdlessard/Documents/SoftwareProjects/liveproject-security/milestone1/src/main/java/com/laurentiuspilca/liveproject/entities/HealthMetric.java
+/Users/fdlessard/Documents/SoftwareProjects/liveproject-security/milestone1/src/main/java/com/laurentiuspilca/liveproject/controllers/HealthMetricController.java
+/Users/fdlessard/Documents/SoftwareProjects/liveproject-security/milestone1/src/main/java/com/laurentiuspilca/liveproject/controllers/HealthProfileController.java
+/Users/fdlessard/Documents/SoftwareProjects/liveproject-security/milestone1/src/main/java/com/laurentiuspilca/liveproject/repositories/HealthProfileRepository.java
+/Users/fdlessard/Documents/SoftwareProjects/liveproject-security/milestone1/src/main/java/com/laurentiuspilca/liveproject/repositories/HealthMetricRepository.java
+/Users/fdlessard/Documents/SoftwareProjects/liveproject-security/milestone1/src/main/java/com/laurentiuspilca/liveproject/entities/HealthProfile.java

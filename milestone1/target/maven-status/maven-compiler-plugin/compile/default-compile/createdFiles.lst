@@ -1,0 +1,16 @@
+com/laurentiuspilca/liveproject/controllers/HealthAdviceController.class
+com/laurentiuspilca/liveproject/services/HealthProfileService.class
+com/laurentiuspilca/liveproject/services/HealthMetricService.class
+com/laurentiuspilca/liveproject/entities/enums/HealthMetricType.class
+com/laurentiuspilca/liveproject/repositories/HealthMetricRepository.class
+com/laurentiuspilca/liveproject/controllers/HealthProfileController.class
+com/laurentiuspilca/liveproject/config/SecurityConfiguration.class
+com/laurentiuspilca/liveproject/Milestone1Application.class
+com/laurentiuspilca/liveproject/exceptions/NonExistentHealthProfileException.class
+com/laurentiuspilca/liveproject/entities/HealthMetric.class
+com/laurentiuspilca/liveproject/exceptions/advices/GlobalExceptionAdvice.class
+com/laurentiuspilca/liveproject/repositories/HealthProfileRepository.class
+com/laurentiuspilca/liveproject/exceptions/HealthProfileAlreadyExistsException.class
+com/laurentiuspilca/liveproject/entities/HealthProfile.class
+com/laurentiuspilca/liveproject/controllers/dto/HealthAdvice.class
+com/laurentiuspilca/liveproject/controllers/HealthMetricController.class

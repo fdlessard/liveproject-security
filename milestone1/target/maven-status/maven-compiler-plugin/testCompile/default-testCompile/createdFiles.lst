@@ -1,0 +1,12 @@
+com/laurentiuspilca/liveproject/services/FindHealthProfileTests.class
+com/laurentiuspilca/liveproject/services/context/TestUser.class
+com/laurentiuspilca/liveproject/services/context/TestSecurityContextFactory.class
+com/laurentiuspilca/liveproject/services/DeleteHealthProfileTests.class
+com/laurentiuspilca/liveproject/endpoints/FindHealthProfileTests.class
+com/laurentiuspilca/liveproject/services/DeleteHealthMetricForUserTests.class
+com/laurentiuspilca/liveproject/endpoints/AddHealthMetricTests.class
+com/laurentiuspilca/liveproject/services/AddHealthProfileTests.class
+com/laurentiuspilca/liveproject/services/AddHealthMetricTests.class
+com/laurentiuspilca/liveproject/endpoints/DeleteHealthMetricForUserTests.class
+com/laurentiuspilca/liveproject/endpoints/DeleteHealthProfileTests.class
+com/laurentiuspilca/liveproject/endpoints/AddHealthProfileTests.class
